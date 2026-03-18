@@ -3,7 +3,7 @@ import axios from "axios";
 import { TextField, Button, Typography } from "@mui/material";
 import { CircularProgress } from "@mui/material";
 
-const API_KEY = "eef1e3b05c0edb13ba189afa019dac1b";
+const API_KEY = "your_api_key";
 
 function App() {
   const [city, setCity] = useState("");
