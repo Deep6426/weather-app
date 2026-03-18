@@ -1,8 +1,8 @@
 import { useState } from "react";
 import axios from "axios";
-import { TextField, Button, Card, CardContent, Typography } from "@mui/material";
+import { TextField, Button, Typography } from "@mui/material";
 import { CircularProgress } from "@mui/material";
-import {motion} from "framer-motion";
+
 const API_KEY = "eef1e3b05c0edb13ba189afa019dac1b";
 
 function App() {
